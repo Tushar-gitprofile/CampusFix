@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  font-family: "Inter", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #f8fafc;
+  color: #020617;
+}
+
+a {
+  text-decoration: none;
+}
+
+input {
+  padding: 10px 12px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: 1px solid #cbd5f5;
+}
+
+input:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+button {
+  font-size: 14px;
+  font-weight: 500;
+}
